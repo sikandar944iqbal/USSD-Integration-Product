@@ -2,7 +2,7 @@ swagger: "2.0"
 info:
   title: Jazz Cash USSD Integration
   x-ibm-name: jazz-cash-ussd-integration
-  version: 1.0.3
+  version: 1.0.4
   description: This APIs related to Jazz cash integration for USSD APIs
 host: $(catalog.host)
 schemes:
